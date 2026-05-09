@@ -64,4 +64,4 @@ Bu model, sigara kullanımının biyobelirteçler üzerindeki etkisini yüksek b
 * `app.py`: Streamlit arayüz kodu.
 * `lgbm_smoking_model.pkl`: Eğitilmiş ve kaydedilmiş model.
 * `requirements.txt`: Gerekli kütüphaneler listesi.
-* `notebook.ipynb`: Veri analizi ve eğitim süreci (isteğe bağlı eklenebilir).
+* `notebook.ipynb`: Veri analizi ve eğitim süreci.
